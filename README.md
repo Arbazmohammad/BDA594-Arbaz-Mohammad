@@ -10,12 +10,12 @@ Big data refers to large and complex data sets that cannot be processed by tradi
 
 There are 5'V of Big data which are:
 
-1- Volume
+1- Volume: Size of the Data.
 
-2- Velocity
+2- Velocity: Speed at which the data generated.
 
-3- Variety
+3- Variety: Different types of data such as text, photos, audios etc.
 
-4- Veracity
+4- Veracity: Disturbance in the data.
 
-5- Value
+5- Value: Generating Values from the data.
